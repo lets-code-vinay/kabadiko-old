@@ -1,0 +1,10 @@
+1. signup
+    user/admin
+        Page responsiveness
+        toaster
+        error message
+        successmessage
+        email otp, email confirmation, 
+2. forgot-password
+
+3. reset-password   

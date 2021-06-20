@@ -1,0 +1,7 @@
+1.--- Types of user-
+    1. SuperAdmin - SA
+    2. Admin    - AD
+    3. Vendor   - VN
+    4. Scrap-dealers- SD
+    5. Business-Partner - BP
+    6. User - US

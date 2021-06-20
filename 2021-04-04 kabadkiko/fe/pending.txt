@@ -1,0 +1,14 @@
+1. signup
+    user/admin
+        Page responsiveness
+        toaster
+        error message
+        successmessage
+        email otp, email confirmation, 
+        user verification- 
+        is user admin/ super admin
+2. Login
+    Not getting contact in response
+2. forgot-password
+
+3. reset-password   

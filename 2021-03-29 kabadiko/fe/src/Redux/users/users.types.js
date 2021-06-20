@@ -1,0 +1,3 @@
+export const SET_LOADER_USER = "SET_LOADER_USER";
+export const SET_USER_DETAIL = "SET_USER_DETAIL";
+export const SET_SIGNUP_STATUS = "SET_SIGNUP_STATUS";
